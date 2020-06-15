@@ -9,4 +9,3 @@ Les pièces sont sous trois formats :
 *.f3d : ces fichiers s'ouvrent avec Fusion.
 
 *.scad : ces fichiers s'ouvrent avec OpenScad 
-
